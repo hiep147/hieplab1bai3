@@ -1,8 +1,4 @@
 
-//C program for creating & simulating a Snake & Ladder Game
-// Coded by: Akash Mahesh Ganjal. /\('-')/\ 
-//Constraints and Rules
-/*
 1.The game will begin with any dice value.
 2.If a 6(six) is appeared then a chance is awarded to that player.
 3.Only the location of current player is shown on the board,
